@@ -53,7 +53,7 @@ public class orangeHRM extends BaseTest{
 
         
 
-        lp.verifyApplicationTitle(driver.getTitle(), "OrangeHRMTest");
+        lp.verifyApplicationTitle(driver.getTitle(), "OrangeHRM");
         
 
         
