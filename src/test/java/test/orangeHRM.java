@@ -51,7 +51,7 @@ public class orangeHRM extends BaseTest{
 
         lp.clickLogout();
 
-        
+        Thread.sleep(3000);
 
         lp.verifyApplicationTitle(driver.getTitle(), "OrangeHRM");
         
